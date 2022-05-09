@@ -6,11 +6,11 @@ basic project, to use react,node, and mysql
 3. open in vs-code
 4. run in the terminal the following command:
   
-  4.1 cd server
+     4.1 cd server
   
-  4.2 npm install
+     4.2 npm install
   
-  4.3 node src/app
+     4.3 node src/app
   
 7. open new terminal
 8. run in the terminal the following command:
